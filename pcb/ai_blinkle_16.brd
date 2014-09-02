@@ -162,6 +162,7 @@
 <text x="26.838" y="0.6982" size="1.27" layer="22" font="vector" ratio="15" rot="MR348.7">-</text>
 <text x="5.121" y="24.9044" size="0.762" layer="22" font="vector" ratio="15" rot="MR112.5">BLINKLE 16</text>
 <text x="26.1776" y="5.4226" size="0.762" layer="22" font="vector" ratio="15" rot="MR0">Pasadena, CA</text>
+<text x="23.5106" y="0.2156" size="0.762" layer="22" font="vector" ratio="15" rot="MR0">v1.0</text>
 </plain>
 <libraries>
 <library name="Ai_LED">
